@@ -6,9 +6,9 @@
 ## Downloading Data
 cd data direction and run the following commands.
 
-   tar -xvzf negativeReviews.tar.gz
-   
-   tar -xvzf positiveReviews.tar.gz
+    tar -xvzf negativeReviews.tar.gz
+
+    tar -xvzf positiveReviews.tar.gz
    
 ## How to use
    train.py  The training file.
