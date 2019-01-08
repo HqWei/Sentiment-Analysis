@@ -4,7 +4,9 @@
  ## Datasets
  Movie reviews from the Large Movie eview Dataset, sometimes known as the IMDB dataset. In this task, given a movie review, the model attempts to predict whether it is positive or negative. This is a binary classification task.
 ## Downloading Data
-
+cd data direction and run the following commands.
+   tar -xvzf negativeReviews.tar.gz
+   tar -xvzf positiveReviews.tar.gz
 ## How to use
    train.py  The training file.
    
