@@ -1,4 +1,4 @@
-# Sentiment Analysis with Word Embedding and Long Short Term Memory Approaches
+# Sentiment Analysis with Word Embedding
 ## Introduction
  Sentiment Analysis with CNN and Long Short Term Memory Approaches in tensorflow.
  ## Datasets
